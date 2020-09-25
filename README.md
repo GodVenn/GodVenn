@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I speak Norwegian, English, French and Portuguese!
 
 "Game Engine" created from scratch using C++, openGL and GLSL and then used to create an interactive solar system:
-https://github.com/adrianrodriguesm/Interactive-Solar-System
+https://github.com/adrianrodriguesm/Interactive-Solar-System (Computer Graphics for Games course @ IST 2019) 
 
 Games and Game Prototypes I have worked on:  
 https://godvenn.itch.io/arrowgeddon (GMTK Game Jam 2020)  
