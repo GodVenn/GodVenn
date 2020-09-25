@@ -11,6 +11,9 @@
 - 📫 How to reach me: TLNesheim@outlook.com
 - ⚡ Fun fact: I speak Norwegian, English, French and Portuguese!
 
+"Game Engine" created from scratch using C++, openGL and GLSL and then used to create an interactive solar system:
+https://github.com/adrianrodriguesm/Interactive-Solar-System
+
 Games and Game Prototypes I have worked on:  
 https://godvenn.itch.io/arrowgeddon (GMTK Game Jam 2020)  
 https://globalgamejam.org/2020/games/color-motivation-6 (Global Game Jam 2020)  
