@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a **Master Thesis within AI and Video Games @ *IST Lisboa***
-- 🌱 I’m currently learning **Unity, *User-Centered Design* and *3D Animation and Visualization***
+- 🌱 I’m currently learning **Unity, *Genetic Algorithms*, *Ray-Tracing* and *OpenGL***
 - 👯 I’m looking to collaborate on **Game Jams**
 - 💬 Ask me about **C#, Game Design or OpenGL**
 - 📫 How to reach me: TLNesheim@outlook.com
