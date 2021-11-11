@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m currently working on a **Master Thesis within AI and Video Games @ *IST Lisboa***
-- 🌱 I’m currently learning **Unity, *Genetic Algorithms*, *Ray-Tracing* and *OpenGL***
+- 🌱 I’m currently learning **Unity & Fullstack development using React, Typescript, .NET, Azure and Docker.***
 - 👯 I’m looking to collaborate on **Game Jams**
-- 💬 Ask me about **C#, Game Design or OpenGL**
+- 💬 Ask me about **C#, Genetic Algorithms, Unity, Game Design or OpenGL**
 - 📫 How to reach me: TLNesheim@outlook.com
 - ⚡ Fun fact: I speak Norwegian, English, French and Portuguese!
 
