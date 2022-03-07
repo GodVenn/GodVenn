@@ -4,7 +4,7 @@
 **GodVenn/GodVenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a **Master Thesis within AI and Video Games @ *IST Lisboa***
+- 🔭 I’m currently working on a **Robot planning & control system for autonomous land-based robots in Equinor**
 - 🌱 I’m currently learning **Unity & Fullstack development using React, Typescript, .NET, Azure and Docker.***
 - 👯 I’m looking to collaborate on **Game Jams**
 - 💬 Ask me about **C#, Genetic Algorithms, Unity, Game Design or OpenGL**
