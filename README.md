@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Robot planning & control system for autonomous land-based robots in Equinor**
 - 🌱 I’m currently learning **Unity & Fullstack development using React, Typescript, .NET, Azure and Docker.**
-- 👯 I’m looking to collaborate on **Game Jams**
+- 👯 I’m looking to collaborate on **Indie Games & Game Jams**
 - 💬 Ask me about **C#, ASP.NET, Genetic Algorithms, Unity, Game Design or OpenGL**
 - 📫 How to reach me: TLNesheim@outlook.com
 - ⚡ Fun fact: I speak Norwegian, English, French and Portuguese!
