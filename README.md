@@ -19,3 +19,6 @@ Games and Game Prototypes I have worked on:
 https://godvenn.itch.io/arrowgeddon (GMTK Game Jam 2020)  
 https://globalgamejam.org/2020/games/color-motivation-6 (Global Game Jam 2020)  
 https://ther00t27.itch.io/splitwave (Game Development Methodology Course at IST 2019-2020)  
+
+Simulation of a pandemic in a neighborhood made in Unity (Autonomous Agents & Multi-Agent Systems course @ IST 2021):
+https://github.com/joaopat98/AASMA_2020
