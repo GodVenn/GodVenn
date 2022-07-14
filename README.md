@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Indie Games & Game Jams**
 - 💬 Ask me about **C#, ASP.NET, Genetic Algorithms, Unity, Game Design or OpenGL**
 - 📫 How to reach me: TLNesheim@outlook.com
-- ⚡ Fun fact: I speak Norwegian, English, French and Portuguese!
+- ⚡ Fun fact: Good friend
 
 "Game Engines" created from scratch using C++, openGL and GLSL, demoing computer graphics techniques:  
 https://github.com/adrianrodriguesm/Interactive-Solar-System (Computer Graphics for Games course @ IST 2019, used to create an interactive solar system)
