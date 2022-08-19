@@ -11,6 +11,7 @@
 - 📫 How to reach me: TLNesheim@outlook.com
 - ⚡ Fun fact: Good friend
 
+# Projects
 "Game Engines" created from scratch using C++, openGL and GLSL, demoing computer graphics techniques:  
 https://github.com/adrianrodriguesm/Interactive-Solar-System (Computer Graphics for Games course @ IST 2019, used to create an interactive solar system)
 https://github.com/GodVenn/AVT-ColdShadowWorld (3D Animation & Visualization course @ IST 2020, used to create a beautiful, cel-shaded and procedurally generated snow-world)
@@ -22,3 +23,6 @@ https://ther00t27.itch.io/splitwave (Game Development Methodology Course at IST 
 
 Simulation of a pandemic in a neighborhood made in Unity (Autonomous Agents & Multi-Agent Systems course @ IST 2021):
 https://github.com/joaopat98/AASMA_2020
+
+# Stats
+![GodVenn's github stats](https://github-readme-stats.vercel.app/api?username=GodVenn&show_icons=true&theme=dracula)
