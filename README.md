@@ -1,5 +1,7 @@
 ### Hello hello! 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=GodVenn)](https://github.com/GodVenn/github-profile-trophy)
+
 <!--
 **GodVenn/GodVenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
