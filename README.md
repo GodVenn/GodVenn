@@ -6,7 +6,7 @@
 **GodVenn/GodVenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a **Robot planning & control system for autonomous land-based robots in Equinor**
+- 🔭 I’m currently working on a **Robot planning & control system for autonomous land-based robots in Equinor** ([ISAR](https://github.com/equinor/isar) & [Flotilla](https://github.com/equinor/flotilla))
 - 🌱 I’m currently learning **Unity & Fullstack development using .NET, React, Typescript, Azure and Docker.**
 - 👯 I’m looking to collaborate on **Indie Games & Game Jams**
 - 💬 Ask me about **C#, ASP.NET, Genetic Algorithms, Unity, Game Design or OpenGL**
